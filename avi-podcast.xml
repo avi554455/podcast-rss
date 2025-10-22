@@ -14,7 +14,7 @@
       <itunes:name><![CDATA[Avi Shaya]]></itunes:name>
       <itunes:email><![CDATA[avi554455@gmail.com]]></itunes:email>
     </itunes:owner>
-    <itunes:category text="Society & Culture"/>
+    <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44108327/44108327-1753114906601-13633af54f479.jpg"/>
     <itunes:summary><![CDATA[
@@ -69,3 +69,4 @@
 
   </channel>
 </rss>
+
