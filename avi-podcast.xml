@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+
+  <channel>
+    <title><![CDATA[ההקלטות היומיות של אבי #1977]]></title>
+    <link>https://podcasters.spotify.com/pod/show/avi-shaya</link>
+    <language>he</language>
+    <copyright><![CDATA[© 2025 Avi Shaya]]></copyright>
+    <itunes:author><![CDATA[Avi Shaya]]></itunes:author>
+    <itunes:owner>
+      <itunes:name><![CDATA[Avi Shaya]]></itunes:name>
+      <itunes:email><![CDATA[avi554455@gmail.com]]></itunes:email>
+    </itunes:owner>
+    <itunes:category text="Society & Culture"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44108327/44108327-1753114906601-13633af54f479.jpg"/>
+    <itunes:summary><![CDATA[
+      ההקלטות היומיות של אבי #1977 – סדרת הקלטות יומיות או שבועיות למטרות מגוונות.
+      כולל הודעות קוליות אוטומטיות לבית, התראות, ושימושים חכמים למכשירים.
+    ]]></itunes:summary>
+    <description><![CDATA[
+      ההקלטות היומיות של אבי #1977 – סדרת הקלטות קצרות ואישיות לשימושים שונים:
+      בוקר טוב, לילה טוב, דלת פתוחה, ועוד.
+    ]]></description>
+
+    <atom:link href="https://anchor.fm/s/107808dbc/podcast/rss" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 20 Oct 2025 08:15:20 GMT</lastBuildDate>
+
+    <!-- פרק 1 -->
+    <item>
+      <title><![CDATA[אבי בוקר טוב, הגיע הזמן לקום #1977]]></title>
+      <description><![CDATA[
+        אבי בוקר טוב, הגיע הזמן לקום #1977 — הקלטת בוקר ייחודית לשעון המעורר של אבי.
+      ]]></description>
+      <pubDate>Mon, 21 Jul 2025 16:22:28 GMT</pubDate>
+      <guid isPermaLink="false">avi-1977-ep1</guid>
+      <link>https://podcasters.spotify.com/pod/show/avi-shaya/episodes/1977-e35r2jj</link>
+      <enclosure url="https://anchor.fm/s/107808dbc/podcast/play/105793587/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-17%2F3f56f395-a1e1-f198-3f46-c1d5092214c6.mp3"
+                 length="233517"
+                 type="audio/mpeg"/>
+      <itunes:duration>00:00:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44108327/44108327-1753114906601-13633af54f479.jpg"/>
+    </item>
+
+    <!-- פרק 2 -->
+    <item>
+      <title><![CDATA[שימו לב! דלת הבית פתוחה #1977]]></title>
+      <description><![CDATA[
+        הודעה קולית אוטומטית: שימו לב! דלת הבית פתוחה #1977.
+      ]]></description>
+      <pubDate>Wed, 30 Jul 2025 09:05:51 GMT</pubDate>
+      <guid isPermaLink="false">avi-1977-ep2</guid>
+      <link>https://podcasters.spotify.com/pod/show/avi-shaya/episodes/1977-e367hso</link>
+      <enclosure url="https://anchor.fm/s/107808dbc/podcast/play/106202456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-17%2Fca8c7930-4624-c594-09c5-c407d674c551.mp3"
+                 length="227565"
+                 type="audio/mpeg"/>
+      <itunes:duration>00:00:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44108327/44108327-1753866309432-98913e27cb6b8.jpg"/>
+    </item>
+
+  </channel>
+</rss>
